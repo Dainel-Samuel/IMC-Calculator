@@ -1,0 +1,14 @@
+# Archivos de compilación de Flutter (lo más pesado)
+/build/
+/windows/flutter/ephemeral/
+/.dart_tool/
+
+# Archivos de configuración local y paquetes
+.packages
+.pub-cache/
+.pub/
+/android/local.properties
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
