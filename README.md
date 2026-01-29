@@ -22,12 +22,9 @@ Con un diseño limpio y fácil de usar, esta herramienta te ayuda a monitorear t
 
 ## 📸 Capturas de Pantalla
 
-*(Espacio reservado para capturas de pantalla de la pantalla de inicio y resultados)*
-
 | Inicio | Resultados |
 |:---:|:---:|
-| ![Inicio](assets/images/home_placeholder.png) | ![Resultados](assets/images/result_placeholder.png) |
-> *Nota: Asegúrate de añadir las imágenes correspondientes en `assets/images` o actualizar estas rutas.*
+| ![Inicio](assets/images/Inicio.png) | ![Resultados](assets/images/Resultado.png) |
 
 ## 🔧 Instalación y Ejecución
 
